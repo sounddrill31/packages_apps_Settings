@@ -22,4 +22,8 @@
     <string name="skylineui_lab_title">SkylineUI Workstation</string>
     <string name="skylineui_lab_footer">Warning: These features are experimental and may have risks. Use them with caution.</string>
     <string name="skylineui_lab_summary">Experimental features</string>
+
+    <!-- Snapchat Spoof -->
+    <string name="snapchat_spoof_title">Snapchat spoof</string>
+    <string name="snapchat_spoof_summary">Spoof your device as Pixel XL for Snapchat to allow original quality captures</string>
 </resources>

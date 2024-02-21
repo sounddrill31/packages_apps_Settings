@@ -23,4 +23,11 @@
         android:title="@string/skylineui_lab_footer"
         android:selectable="false"
         settings:searchable="false"/>
+
+    <!-- Snapchat (spoof as Pixel XL) -->
+    <com.android.settings.preference.SystemPropertySwitchPreference
+        android:key="persist.sys.pixelprops.snapchat"
+        android:title="@string/snapchat_spoof_title"
+        android:summary="@string/snapchat_spoof_summary"
+        android:defaultValue="false" />
 </PreferenceScreen>
